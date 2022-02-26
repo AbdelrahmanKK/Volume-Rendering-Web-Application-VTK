@@ -1,11 +1,11 @@
 ### Team Members
 
-| Name                          | Section |  BN |
-| ----------------------------- | :-----: | --: |
-| Abdelrahman Khaled Isamail    |    1    |  50 |
-| Mostafa Medhat Hakim          |    2    |  32 |
-| Mohab Hesham Ahmed            |    2    |  34 |
-| Hesham Gamal Abdelhady        |    2    |  46 |
+| Name                          |
+| ----------------------------- |
+| Abdelrahman Khaled Isamail    |
+| Mostafa Medhat Hakim          |
+| Mohab Hesham Ahmed            |
+| Hesham Gamal Abdelhady        |
 
 
 - ### important note: our main files are:
